@@ -1,0 +1,9 @@
+label { font-weight: bold; }
+fieldset { padding: 10px; margin-bottom: 20px; border: 5px solid #02ffb3; width: 550px; }
+legend { padding: 0 13px; font-weight: bold; font-size: 15px; line-height: 25px; }
+textarea { padding: 13px; }
+
+form.hform { margin-bottom: 15px; }
+form.hform label { float: left; width: 200px; }
+form.hform input { width: 220px;}
+form.hform p {display: inline; white-space: nowrap;}
